@@ -5,7 +5,7 @@
   <li>Measure and display temperature and humidity, soil and air moisture, sunlight level for a plant on screen</li>
   <li>Users can click a button to switch between these information on screen</li>
   <li>Users can view whether the plant needs water or not</li>
-  <li>When moisture goes below a threshold, it will draw water from a container to water the plant</li>
+  <li>When moisture goes below a threshold, it will draw water from a container (that user has to refill) to water the plant</li>
 </ul>
 <img src="https://github.com/in-mai-space/plant-tracker/blob/main/image/image2.png?raw=true">
 <img src="https://github.com/in-mai-space/plant-tracker/blob/main/image/image3.png?raw=true">
@@ -21,4 +21,7 @@
 <br>
 <h2>Limitations</h2>
 <ul>
+  <li>Pumper pumps large amount of water that result in overflow</li>
+  <li>The box cannot be left outside due to the wire and potential risk related to battery</li>
+  <li>It currently requires a connected source, thus cannot be left outside in the garden (can only work with small plant)</li>
 </ul>
