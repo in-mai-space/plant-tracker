@@ -8,7 +8,8 @@
   <li>Users can view whether the plant needs water or not</li>
   <li>When moisture goes below a threshold, it will draw water from a container to water the plant</li>
 </ul>
-  
-<p>Arduino hardware: temperature and humidity sensor, soil humidity sensor, breadboard, Liquid Crystal Display (LCD), wires, water pumper, transformers, battery.</p>
-<p>Other components: water containers, water pipe, a plant.
-<p>Other Tools: C++ (program code), Tinkercad (3D box design)</p>
+
+<h2>Tools</h2>
+<p>Arduino Hardware: temperature and humidity sensor, soil humidity sensor, breadboard, Liquid Crystal Display (LCD), wires, water pumper, transformers, battery.</p>
+<p>Other Components: water containers, water pipe, a plant.
+<p>Language & Programs: C++ (program code), Tinkercad (3D box design)</p>
