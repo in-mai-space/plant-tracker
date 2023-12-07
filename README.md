@@ -11,7 +11,7 @@
 <img src="https://github.com/in-mai-space/plant-tracker/blob/main/image/image3.png?raw=true">
 
 <h2>Tools</h2>
-<p><b>Arduino Hardware</b>: temperature and humidity sensor, soil humidity sensor, breadboard, Liquid Crystal Display (LCD), wires, water pumper, transformers, battery, battery</p>
+<p><b>Arduino Hardware</b>: temperature and humidity sensor, soil humidity sensor, breadboard, Liquid Crystal Display (LCD), wires, water pumper, transformers, battery, resistors</p>
 <p><b>Other Components</b>: water containers, water pipe, a plant, battery case
 <p><b>Language & Application</b>: C++ (program code), Tinkercad (3D box design)</p>
 <img src="https://github.com/in-mai-space/plant-tracker/blob/main/image/image1.png?raw=true">
