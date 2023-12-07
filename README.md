@@ -11,4 +11,4 @@
 <h2>Tools</h2>
 <p><b>Arduino Hardware</b>: temperature and humidity sensor, soil humidity sensor, breadboard, Liquid Crystal Display (LCD), wires, water pumper, transformers, battery.</p>
 <p><b>Other Components</b>: water containers, water pipe, a plant.
-<p><b>Language & Programs</b>: C++ (program code), Tinkercad (3D box design)</p>
+<p><b>Language & Application</b>: C++ (program code), Tinkercad (3D box design)</p>
