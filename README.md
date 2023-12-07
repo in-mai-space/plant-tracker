@@ -2,8 +2,7 @@
 <h2>Overview</h2>
 <p>This is a project where I built a 3D box that contains features:</p>
 <ul>
-  <li>Display temperature and humidity on screen</li>
-  <li>Display soil and air moisture on screen</li>
+  <li>Display temperature and humidity, soil and air moisture, sunlight level on screen</li>
   <li>Users can click a button to switch between these information on screen</li>
   <li>Users can view whether the plant needs water or not</li>
   <li>When moisture goes below a threshold, it will draw water from a container to water the plant</li>
