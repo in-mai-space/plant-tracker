@@ -9,8 +9,6 @@
   <li>Liquid Crystal Display (LCD)</li>
   <li>wires</li>
   <li>water pumper</li>
-  <li>water pumper</li>
-  <li>resistors</li>
   <li>transformers</li>
   <li>battery</li>
   <li>water pipe</li>
